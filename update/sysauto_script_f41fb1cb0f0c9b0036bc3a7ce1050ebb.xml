@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sysauto_script">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sysauto_script">
     <sysauto_script action="INSERT_OR_UPDATE">
         <active>true</active>
+        <business_calendar/>
         <condition/>
         <conditional>false</conditional>
+        <entered_time/>
         <name>Find and Close Long Overdue NeedIt Tasks</name>
         <run_as display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</run_as>
         <run_as_tz/>
@@ -47,6 +48,7 @@
         <sys_update_name>sysauto_script_f41fb1cb0f0c9b0036bc3a7ce1050ebb</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2018-02-07 15:25:04</sys_updated_on>
+        <time_zone/>
         <upgrade_safe>false</upgrade_safe>
     </sysauto_script>
 </record_update>
